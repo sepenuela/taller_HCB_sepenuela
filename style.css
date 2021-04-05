@@ -1,0 +1,25 @@
+body {
+  height: 100%;
+  background-color: orange;
+}
+.titulo {
+  text-align: center;
+}
+.contenedor {
+  text-align: center;
+}
+#titulo1 {
+  text-align: center;
+}
+#link {
+  text-align: center;
+  font-weight: bold;
+}
+#lista {
+  display: inline;
+text-align: center;
+font-weight: bold;
+}
+#imagen {
+  text-align: center;
+}
